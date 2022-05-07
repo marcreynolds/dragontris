@@ -1,0 +1,6 @@
+devid=marcreynolds
+devtitle=Marc Reynolds
+gameid=dragontris
+gametitle=Dragontris
+version=0.1
+icon=metadata/icon.png
